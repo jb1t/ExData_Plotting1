@@ -1,5 +1,7 @@
 ## Introduction
 
+#<b>Update: </b> I created one extra file called LoadHouseholdPowerConsumption.R. This file loads in the data into a variable hpc. Each of the plot*.R files source this file to load in the data. This way I don't have to replicate the code in each plot*.R file.
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
